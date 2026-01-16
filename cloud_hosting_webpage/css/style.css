@@ -1,0 +1,85 @@
+body{
+    font-size: larger;
+}
+
+
+
+div.container-fluid{padding-left:11.5%;
+    padding-right: 11.5%; 
+    width:95%;
+    box-shadow: 0px 0px 0px 0px rgb(27 71 115 / 2%);;
+    padding-block: inherit;}
+
+
+a {
+        color: #0d6efd;
+        text-decoration: underline;
+        font-size: larger;}
+
+/*cloud-hosting-banner*/
+.banner-wrapper{position:relative; width:80%; margin:0 auto;text-align:center; justify-content: center; align-items: center; background-image:url("cloud-banner.jpg"); padding:2% 4% 2% 4%;}
+.container1{position:relative; margin:auto; text-align:center; background-image:url("cloud-banner.jpg");}
+.banner-wrapper caption{position:relative; text-align: center; background-image:url("cloud-banner.jpg");}
+.bg-img{max-width:100%;}
+.caption{position:absolute; width:100%; top:10%; text-align:center; align-items: center; padding-top:7.5%;}
+.caption h2, .caption p{color:#fff; text-align:center; align-items: center; }
+.caption h2{justify-content: center; align-items: center; margin: auto; padding-bottom: 2%;}
+.caption p{justify-content: center; align-items: center; margin: auto; padding-bottom: 2%;}
+.btn-warning {
+    color: #000;
+    background-color: #ffd200;
+    border-color: #ffd200;
+}
+.caption p a{
+    line-height: 1.364
+    font-size: medium;
+    font-family: "Montserrat";
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 1% 3.5% 1% 3.5%;}
+
+/* 4-steps */
+.steps{
+background-color: #f6f9ff;
+}
+.img-responsive{width:  -webkit-fill-available;
+padding:5%}
+.description{padding: 25% 10%}
+#step4{padding:20% 10%;}
+.align-right{text-align: end;}
+
+
+/*footer*/
+
+
+/*responsive*/
+
+
+@media (max-width:600px)
+{
+    .navbar-brand{padding-right: 3rem;justify-self: left;}
+    .navbar-brand img{width:80%;padding-left: 0%;}
+    .caption{top:1rem;}
+}
+@media (max-width:800px)
+{
+    .navbar-brand{padding-right: 3rem;justify-self: left;}
+    .navbar-brand img{width:80%;padding-left: 0%;}
+    .caption{top:2rem;}
+}
+@media (max-width:375px)
+{
+    .navbar-brand{padding-right: 3rem;justify-self: left;}
+    .navbar-brand img{width:100%;padding-left: 0%;}
+    .caption{padding-top:0%;}
+    .caption h2,.caption p{font-size: smaller; padding-top: 0%;}
+    .caption p a {font-size: smaller;}
+    .banner-wrapper{position:relative; width:90%;}
+    *, ::after, ::before{box-sizing: inherit;}
+}
+@media (min-width:1150px)
+.navbar-expand-sm .navbar-toggler {
+    display: none;
+}
+
+
