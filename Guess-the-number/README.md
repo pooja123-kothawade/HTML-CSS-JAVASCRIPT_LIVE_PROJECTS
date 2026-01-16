@@ -14,7 +14,7 @@ A simple web-based number guessing game built using **HTML**, **CSS**, and **Jav
 
 ---
 
-## 🌐 Live Demo [Click here](https://pooja123-kothawade.github.io/Guess-the-number/)
+## 🌐 Live Demo [Click here](https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/Guess-the-number/)
 
 > _You can run the project by simply opening the HTML file in any modern web browser._
 
