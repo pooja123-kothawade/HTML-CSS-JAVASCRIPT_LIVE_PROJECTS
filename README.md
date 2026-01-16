@@ -8,7 +8,7 @@
 
 3.VideoExursion Live Link : https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/VideoProjectExursion/    
 4.Colmar Academy: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/ColmarAcademy/   
-5.Flipkart-LoginPage: https://pooja123-kothawade.github.io/Flipkart-LoginPage/
+5.Flipkart-LoginPage: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/Flipkart-LoginPage/
 
 
 
