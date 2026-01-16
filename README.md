@@ -12,7 +12,7 @@
 6.Nobroker-Homepage: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/Nobroker-Homepage/     
 7.Portfolio: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/Portfolio_Pooja_Kothawade/  
 8.Timer-Hackethon: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/HackethonChallange-Timer_WebApp/
-9.cloud_hosting_webpage: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/cloud_hosting_webpage
-10.GitDemo: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/git-demo
+9.cloud_hosting_webpage: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/cloud_hosting_webpage/      
+10.GitDemo: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/git-demo/       
 
 
