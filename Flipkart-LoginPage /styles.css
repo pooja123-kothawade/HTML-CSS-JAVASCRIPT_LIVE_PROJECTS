@@ -1,0 +1,148 @@
+/* styles.css */
+/* Base Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f3f6;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Blue Sidebar */
+.blue-sidebar {
+    width: 40%;
+    background-color: #2874f0;
+    color: white;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sidebar-content {
+    max-width: 400px;
+    text-align: center;
+}
+
+.sidebar-content h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.sidebar-content p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+
+.sidebar-image {
+    max-width: 100%;
+    height: auto;
+    margin-top: 40px;
+}
+
+/* Login Container */
+.login-container {
+    width: 60%;
+    background-color: #ffffff;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Rest of your existing form styles remain the same */
+.login-form {
+    max-width: 350px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.form-group {
+    margin-bottom: 20px;
+    position: relative;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px 15px;
+    border: 1px solid #e0e0e0;
+    border-radius: 2px;
+    font-size: 14px;
+    outline: none;
+    transition: border 0.3s;
+}
+
+.forgot-password {
+    position: absolute;
+    right: 0;
+    top: 12px;
+    font-size: 13px;
+    color: #2874f0;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.terms {
+    font-size: 12px;
+    color: #878787;
+    margin-bottom: 20px;
+    line-height: 1.4;
+}
+
+.login-btn {
+    width: 100%;
+    background-color: #fb641b;
+    color: white;
+    border: none;
+    padding: 12px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+.divider {
+    position: relative;
+    text-align: center;
+    margin: 20px 0;
+    color: #878787;
+    font-size: 13px;
+}
+
+.divider::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background-color: #e0e0e0;
+    z-index: -1;
+}
+
+.otp-btn {
+    width: 100%;
+    background-color: white;
+    color: #2874f0;
+    border: 1px solid #2874f0;
+    padding: 12px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.signup-link {
+    text-align: center;
+    font-size: 14px;
+    color: #2874f0;
+}
