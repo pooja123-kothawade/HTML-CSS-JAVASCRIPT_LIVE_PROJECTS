@@ -10,8 +10,8 @@
 4.Colmar Academy: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/ColmarAcademy/   
 5.Flipkart-LoginPage: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/Flipkart-LoginPage/    
 6.Nobroker-Homepage: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/Nobroker-Homepage/     
-7.Portfolio: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/Portfolio_Pooja_Kothawade/  
-8.Timer-Hackethon: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/HackethonChallange-Timer_WebApp/
+7.Portfolio: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/Portfolio_Pooja_Kothawade/         
+8.Timer-Hackethon: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/HackethonChallange-Timer_WebApp/        
 9.cloud_hosting_webpage: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/cloud_hosting_webpage/      
 10.GitDemo: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/git-demo/       
 11.IM_company_website: https://pooja123-kothawade.github.io/HTML-CSS-JAVASCRIPT_LIVE_PROJECTS/IM_company_website/     
